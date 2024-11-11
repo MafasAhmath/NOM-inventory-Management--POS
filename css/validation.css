@@ -1,0 +1,15 @@
+.inp-grp.error {
+    color: red;
+    font-size: 11px;
+    margin-top: 5px;
+    padding-left: 5px;
+}
+
+.inp-grp.success input {
+    border-color: green;
+}
+
+.inp-grp.error input {
+    border-color: red;
+}
+
